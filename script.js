@@ -1,11 +1,11 @@
-// Author: 
-// Github verson (1 file .html): 
+// Author: dan
+// Github verson (1 file .html): dwodev.github.io
 // You can change global variables here:
 var radius = 240; // how big of the radius
 var autoRotate = true; // auto rotate or not
-var rotateSpeed = -60; // unit: seconds/360 degrees
-var imgWidth = 120; // width of images (unit: px)
-var imgHeight = 170; // height of images (unit: px)
+var rotateSpeed = -70; // unit: seconds/360 degrees
+var imgWidth = 190; // width of images (unit: px)
+var imgHeight = 250; // height of images (unit: px)
 // Link of background music - set 'null' if you dont want to play background music
 var bgMusicURL = './sound/ojos.mp3';
 var bgMusicControls = true; // Show UI music control
@@ -14,7 +14,7 @@ NOTE:
 + imgWidth, imgHeight will work for video
 + if imgWidth, imgHeight too small, play/pause button in <video> will be hidden
 + Music link are taken from: 
-+ Custom from code in tiktok video https://www.facebook.com/J2TEAM.ManhTuan/videos/1353367338135935/
++ Custom from code in tiktok video https://www.facebook.com/dwodev
 */
 // ===================== start =======================
 // animation start after 1000 miliseconds
